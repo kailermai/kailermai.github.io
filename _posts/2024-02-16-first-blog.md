@@ -10,7 +10,7 @@ tags: [blog, intro]
 
 Created with Jekyll using Chirpy Starter Template by Cotes Chung, I will be using this website to document my progress in programming.
 
-## Contents of this blog
+# Contents of this blog
 
 - Projects
 - About me

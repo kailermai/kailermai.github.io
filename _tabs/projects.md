@@ -6,14 +6,18 @@ order: 3
 
 ## The Odin Project Foundation Course's Projects
 
-The Odin Project is a free open source coding curriculum that teaches web development using HTML, CSS and JavaScript. This course has equipped me with the necessary skills to create these projects despite having no prior experience in web development.
+The Odin Project is a free open source coding curriculum that teaches web development using HTML, CSS and JavaScript. This course has equipped me with the necessary skills to create these projects despite having no prior experience in web development. Click on the title to view the project in a browser.
 
-### Recipe Website
+### [Odin Landing Page](https://kailermai.github.io/odin-landing-page/)
 
-### Landing Page
+My first webpage created purely from HTML and CSS using flexbox.
 
-### Rock Paper Scissors
+[<i class="fa-solid fa-book"></i>  Documentation](https://github.com/kailermai/odin-landing-page){:target="\_blank"}
 
-### Etch-a-sketch
+<i class="fa-brands fa-html5"></i>  HTML    <i class="fa-brands fa-css3-alt"></i>  CSS
 
-### Calculator
+![Screenshot of my Landing Page I created while studying The Odin Project](/assets/images/landing-page-top.png)
+
+### Odin Etch-a-sketch
+
+### Odin Calculator

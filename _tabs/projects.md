@@ -4,7 +4,17 @@ icon: fa-solid fa-bars-progress
 order: 3
 ---
 
-# The Odin Project Foundation Course's Projects
+# [Portfolio Webpage](https://kailermai.github.io/){:target="\_blank"}
+
+It is this webpage! Created with Jekyll using Chirpy Starter Template by Cotes Chung.
+
+[<i class="fa-brands fa-github"></i>  GitHub](https://github.com/kailermai/kailermai.github.io){:target="\_blank"}
+
+<i class="fa-brands fa-html5"></i>  HTML    <i class="fa-regular fa-gem"></i>  Ruby
+
+![Screenshot of this website :p](/assets/images/portfolio-website.png)
+
+# [The Odin Project Foundation Course's Projects](https://www.theodinproject.com/paths/foundations/courses/foundations){:target="\_blank"}
 
 The Odin Project is a free open source coding curriculum that teaches web development using HTML, CSS and JavaScript. This course has equipped me with the necessary skills to create these projects despite having no prior experience in web development. Click on the title to view the project in a browser.
 
@@ -22,7 +32,7 @@ My first webpage created purely from HTML and CSS using flexbox.
 
 This is a browser version of something between a sketchpad and an Etch-A-Sketch. Try drawing something cute!
 
-[<i class="fa-brands fa-github"></i>  GitHub](https://github.com/kailermai/odin-landing-page){:target="\_blank"}
+[<i class="fa-brands fa-github"></i>  GitHub](https://github.com/kailermai/Etch-a-Sketch){:target="\_blank"}
 
 <i class="fa-brands fa-html5"></i>  HTML    <i class="fa-brands fa-css3-alt"></i>  CSS    <i class="fa-brands fa-js"></i>  JavaScript
 

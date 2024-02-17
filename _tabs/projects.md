@@ -8,7 +8,7 @@ order: 3
 
 The Odin Project is a free open source coding curriculum that teaches web development using HTML, CSS and JavaScript. This course has equipped me with the necessary skills to create these projects despite having no prior experience in web development. Click on the title to view the project in a browser.
 
-## [Odin Landing Page](https://kailermai.github.io/odin-landing-page/)
+## [Odin Landing Page](https://kailermai.github.io/odin-landing-page/){:target="\_blank"}
 
 My first webpage created purely from HTML and CSS using flexbox.
 
@@ -18,7 +18,7 @@ My first webpage created purely from HTML and CSS using flexbox.
 
 ![Screenshot of my Landing Page I created while studying The Odin Project](/assets/images/landing-page-top.png)
 
-## [Odin Etch-a-sketch](https://kailermai.github.io/Etch-a-Sketch/)
+## [Odin Etch-a-sketch](https://kailermai.github.io/Etch-a-Sketch/){:target="\_blank"}
 
 This is a browser version of something between a sketchpad and an Etch-A-Sketch. Try drawing something cute!
 
@@ -28,7 +28,7 @@ This is a browser version of something between a sketchpad and an Etch-A-Sketch.
 
 ![Screenshot of my Etch-a-Sketch I created while studying The Odin Project](/assets/images/etch-a-sketch-top.png)
 
-## [Odin Calculator](https://kailermai.github.io/odin-calculator/)
+## [Odin Calculator](https://kailermai.github.io/odin-calculator/){:target="\_blank"}
 
 An on-screen calculator using JavaScript, HTML, and CSS.
 

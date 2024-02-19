@@ -6,6 +6,8 @@ order: 2
 
 Hi, I am Kai Ler! I will be matriculating into NUS Computer Science in 2024. Currently, I am exploring my interests in various fields of computer science, such as web development and cloud computing, in the pursuit of discovering my specific area of interest. My enthusiasm lies in learning new technologies so that I can apply them to my own projects.
 
+[<i class="fa-brands fa-github"></i>  GitHub](https://github.com/kailermai){:target="\_blank"}    [<i class="fab fa-linkedin"></i>  LinkedIn](https://www.linkedin.com/in/kai-ler-mai/){:target="\_blank"}
+
 # **_Experience_**
 
 ## The Odin Project Foundations Course

@@ -16,15 +16,29 @@ Hi, I am Kai Ler! I will be matriculating into NUS Computer Science in 2024. Cur
 
 My projects are available for viewing in the Projects tab!
 
-## AWS Getting Started with Compute Certification
+## Craft a 2D Idle Clicker Game
+
+Zenva Academy
+
+> March 2024
+
+> Credential ID 119404948
+
+## [AWS Getting Started with Compute Certification](https://www.credly.com/badges/f05ba33f-7507-4857-a2ad-eaf2bf78b5c2/linked_in_profile){:target="\blank"}
+
+AWS Educate
 
 > February 2024
 
-## AWS Educate Introduction to Cloud 101 Certification
+## [AWS Educate Introduction to Cloud 101 Certification](https://www.credly.com/badges/e45e21ea-dda9-4a81-9b0a-dcf390bc3b53/linked_in_profile){:target="\blank"}
+
+AWS Educate
 
 > January 2024
 
 ## GTx CS1301 Computing in Python
+
+Georgia Tech on edX
 
 > February - May 2022
 

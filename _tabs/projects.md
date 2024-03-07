@@ -4,6 +4,16 @@ icon: fa-solid fa-bars-progress
 order: 3
 ---
 
+# 2D Idle Clicker Game
+
+2D Idle Clicker Game I created while enrolling in a course by Zenva Academy, Craft a 2D Idle Clicker Game.
+
+[<i class="fa-brands fa-github"></i>  GitHub](https://github.com/kailermai/IdleClickerGame){:target="\_blank"}
+
+<i class="fa-brands fa-unity"></i>  Unity    <i class="fa-solid fa-c"></i># CSharp
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLeVX-cDGEo?si=-QSaU6UAbAyVcJcJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 # [Portfolio Webpage](https://kailermai.github.io/){:target="\_blank"}
 
 It is this webpage! Created with Jekyll using Chirpy Starter Template by Cotes Chung.

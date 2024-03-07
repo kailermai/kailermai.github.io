@@ -25,3 +25,5 @@ Through this short course, I have learnt about various Unity features:
 - Prefab Variants
 - Class Singletons
 - Animation
+
+The files are available on my [Github Repo](https://github.com/kailermai/IdleClickerGame){:target="\_blank"}!

@@ -6,6 +6,8 @@ categories: blog
 tags: [blog, projects]
 ---
 
+Play it on your [browser!](https://kailermai.github.io/IdleClickerGame/WebBuild/index.html){:target="\_blank"}
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vawnjHsp0rY?si=NJhvB1FFz22lsZ0c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Since young, I have played various clicker games like cookie clicker, and have always been curious on how to make it. I came acorss this course on Zenva Academy, Craft a 2D Idle Clicker Game, which guided me in creating my very own idle clicker game.

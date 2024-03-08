@@ -4,9 +4,9 @@ icon: fa-solid fa-bars-progress
 order: 3
 ---
 
-# 2D Idle Clicker Game
+# [2D Idle Clicker Game](https://kailermai.github.io/IdleClickerGame/WebBuild/index.html){:target="\_blank"}
 
-2D Idle Clicker Game I created while enrolling in a course by Zenva Academy, Craft a 2D Idle Clicker Game.
+2D Idle Clicker Game I created while enrolling in a course by Zenva Academy, Craft a 2D Idle Clicker Game. This game can be played on your browser!
 
 [<i class="fa-brands fa-github"></i>  GitHub](https://github.com/kailermai/IdleClickerGame){:target="\_blank"}
 

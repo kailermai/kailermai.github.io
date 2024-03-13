@@ -16,6 +16,14 @@ Hi, I am Kai Ler! I will be matriculating into NUS Computer Science in 2024. Cur
 
 My projects are available for viewing in the Projects tab!
 
+## Develop a City-Building Game with Unity
+
+Zenva Academy
+
+> March 2024
+
+> Credential ID 119790232
+
 ## Craft a 2D Idle Clicker Game
 
 Zenva Academy

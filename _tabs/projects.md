@@ -4,6 +4,16 @@ icon: fa-solid fa-bars-progress
 order: 3
 ---
 
+# [City Building Game](https://kailermai.github.io/citybuildinggame/WebBuild/index.html){:target="\_blank"}
+
+A City Building Game I created through Zenva Academy's "Develop a City-Building Game with Unity" Course.
+
+[<i class="fa-brands fa-github"></i>  GitHub](https://github.com/kailermai/citybuildinggame){:target="\_blank"}
+
+<i class="fa-brands fa-unity"></i>  Unity    <i class="fa-solid fa-c"></i># CSharp
+
+![Screenshot of City Building Game](/assets/images/citybuildinggame.png)
+
 # [2D Idle Clicker Game](https://kailermai.github.io/IdleClickerGame/WebBuild/index.html){:target="\_blank"}
 
 2D Idle Clicker Game I created while enrolling in a course by Zenva Academy, Craft a 2D Idle Clicker Game. This game can be played on your browser!

@@ -18,6 +18,10 @@ Zenva Academy
 
 > Credential ID 126744738
 
+## Participation in DSTA Brainhack TIL-AI and CDDC 2024
+
+> May 2024
+
 ## Develop a City-Building Game with Unity
 
 Zenva Academy

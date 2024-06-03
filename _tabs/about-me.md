@@ -10,11 +10,11 @@ Hi, I am Kai Ler! I will be matriculating into NUS Computer Science in 2024. Cur
 
 # **_Experience_**
 
-## The Odin Project Foundations Course
+## Creating a tower defence game in Unity
 
-> November 2023 - Present
+> June 2024
 
-My projects are available for viewing in the Projects tab!
+> Credential ID 126744738
 
 ## Develop a City-Building Game with Unity
 
@@ -43,6 +43,12 @@ AWS Educate
 AWS Educate
 
 > January 2024
+
+## The Odin Project Foundations Course
+
+> November 2023 - February 2024
+
+My projects are available for viewing in the Projects tab!
 
 ## GTx CS1301 Computing in Python
 

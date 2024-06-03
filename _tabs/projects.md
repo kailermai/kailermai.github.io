@@ -4,6 +4,16 @@ icon: fa-solid fa-bars-progress
 order: 3
 ---
 
+# [Tower Defence Game](https://kailermai.github.io/towerDefenceGame/WebBuild/index.html){:target="\_blank"}
+
+A Tower Defence Game I created through Zenva Academy's "Create a Tower Defence Game in Unity" Course.
+
+[<i class="fa-brands fa-github"></i>  GitHub](https://github.com/kailermai/towerDefenceGame){:target="\_blank"}
+
+<i class="fa-brands fa-unity"></i>  Unity    <i class="fa-solid fa-c"></i># CSharp
+
+![Screenshot of City Building Game](/assets/images/towerdefencegame.png)
+
 # [City Building Game](https://kailermai.github.io/citybuildinggame/WebBuild/index.html){:target="\_blank"}
 
 A City Building Game I created through Zenva Academy's "Develop a City-Building Game with Unity" Course.
